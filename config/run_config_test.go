@@ -1,7 +1,7 @@
 package config_test
 
 import (
-	"github.com/cloudcredo/cloudfocker/config"
+	"cloudfocker/config"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

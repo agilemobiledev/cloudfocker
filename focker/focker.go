@@ -9,11 +9,11 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/cloudcredo/cloudfocker/buildpack"
-	"github.com/cloudcredo/cloudfocker/config"
-	"github.com/cloudcredo/cloudfocker/docker"
-	"github.com/cloudcredo/cloudfocker/stager"
-	"github.com/cloudcredo/cloudfocker/utils"
+	"cloudfocker/buildpack"
+	"cloudfocker/config"
+	"cloudfocker/docker"
+	"cloudfocker/stager"
+	"cloudfocker/utils"
 )
 
 type Focker struct {

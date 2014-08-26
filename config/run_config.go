@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/cloudfoundry-incubator/candiedyaml"
-	"github.com/cloudcredo/cloudfocker/utils"
+	"cloudfocker/utils"
 )
 
 type RunConfig struct {
